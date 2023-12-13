@@ -11,7 +11,7 @@ The `data` folder contains the necessary CSV files.
 
 Run the code in the notebooks by first installing [Jupyter](https://jupyter.org/install) and then starting a Jupyter server, for instance by running
 
-````{sh}
+```{sh}
 $ jupyter notebook
 ```
 
